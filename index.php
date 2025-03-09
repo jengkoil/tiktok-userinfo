@@ -5,7 +5,7 @@
 ===============================*/
 header('content-type:text/plain');
 
-$username = $_GET['$username'];
+$username = $_GET['username'];
 $url = "https://www.tiktok.com/@" . $username;
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_HEADER, 0);
