@@ -24,7 +24,7 @@ Extracts:
 * Profile picture URL
 
 # Usage
-Go to http://localhost/tiktok-userinfo/?$username=avrillavigne
+Go to http://localhost/tiktok-userinfo/?username=avrillavigne
 
 # Output
 The script will print the following user information to the web content:
